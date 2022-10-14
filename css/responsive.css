@@ -1,0 +1,355 @@
+
+@media (min-width: 1200px) { 
+
+    .banner-image {
+      
+        left: -20px;
+    }
+ }
+ @media (min-width: 992px) and (max-width: 1199px){
+    .logo a img {
+        width: 92px;
+        padding-right: 0px;
+    }
+    .banner-image {
+        left: 35px;
+        width: 435px;
+    }
+
+    .banner-text h4 {
+        font-size: 27px;
+    }
+    .banner-text h1 {
+        font-size: 260px;
+        font-weight: 600;
+    }
+    .button > a {
+        width: 109px;
+        height: 55px;
+        text-align: center;
+        font-size: 20px;
+    }
+    .main-menu ul li a.nav-link {
+        margin-right: 0px;
+    }
+    .claim-img img {
+        width: 400px;
+    }
+    .price-inner a {
+        width: 158px;
+        height: 60px;
+    }
+    .coundown {
+        height: 56px;
+        width: 55px;
+    }
+    .coundown p {
+ font-size: 16px;
+       
+    }
+     .name p {
+       font-size: 15px;  
+
+    }
+    .game-img img {
+        width: 285px;
+    }
+    .game-overlay {
+        width: 100%;
+        height: 84%;
+    }
+ }
+ @media (min-width: 768px) and (max-width: 991px){
+     
+
+    .main-menu ul li a.nav-link {
+        font-size: 12px;
+        margin-right: 0px;
+    }
+    .button > a {
+      font-size: 12px;
+    }
+    .banner-image {
+        top: -70px;
+        left: -40px;
+        width: 365px;
+    }
+    .banner-text h1 {
+        font-size: 225px;
+    }
+    .game-text h2 {
+       font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .game-text h3 {
+        font-size: 25px;
+    }
+    .game-text p {
+        font-size: 15px;
+line-height: 22px;
+    }
+    .border-shadow {
+      padding: 30px 15px;
+      
+    }
+    .game-overlay {
+       width: 100%;
+        height: 79%;
+    }
+    .game-img .game-overlay h3 {
+        font-size: 20px;
+    }
+    .now-button > a {
+       padding: 10px 9px;
+        font-size: 15px;
+    }
+    #claim .head {
+        padding-top: 0px;
+    }
+    #claim .head h6 {
+        margin-bottom: 30px;
+    }
+    .now-button > a {
+       margin-left: 0px;
+    }
+    .price-inner a {
+     padding: 15px 20px;
+     font-size: 13px;
+    }
+    .pay-text h3 {
+        font-size: 28px;
+    }
+    .pay-link a img {
+        padding-right: 2px;
+    }
+    .foot-link a {
+        font-size: 18px;
+        height: 45px;
+        width: 45px;
+    }
+    .foot-info-head h3 {
+      font-size: 28px;
+      padding-bottom: 15px;
+        margin-top: 20px;
+    }
+    .foot-about h3 {
+        font-size: 28px;
+        padding-bottom: 12px;
+    }
+    .foot-about p {
+       font-size: 14px;
+       padding-bottom: 10px;
+     
+    }
+    .foot-info-text ul li a {
+        padding-bottom: 10px;
+    }
+    .foot-secu h3 {
+       font-size: 28px;
+        padding-bottom: 17px;
+    }
+
+ }
+ @media (min-width: 576px) and (max-width: 767px){
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        outline: 0;
+    }
+
+/* Navbar Start */
+#navbarSupportedContent{
+    background: rgba(0, 0, 0, 0.5);
+}
+.main-menu ul li a.nav-link {
+    margin: 0;
+}
+.nav_btn_parent{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.button > a {
+    padding: 7px 25px;
+    margin: 0;
+    font-size: 16px;
+}
+/* Navbar End */
+
+    #banner-part {
+        padding: 140px 0 190px 0;
+    }
+    .game-info {
+      top: -256px;
+    }
+    .game-overlay {
+        width: 100%;
+        height: 81%;
+    }
+    .game-img .game-overlay h3 {
+     
+        font-size: 23px;
+       
+    }
+    .price-inner {
+        margin-top: 80px;
+    }
+    .now-button > a {
+        padding: 10px 20px;
+        margin-left: 12px;
+        font-size: 20px;
+    }
+    #claim {
+        padding: 60px 0 60px 0;
+    }
+    #claim  .head {
+        text-align: center;
+        padding-top: 0;
+    }
+    #claim .head h3 {
+        font-size: 28px;
+        padding: 0 0 0 0 ;
+    }
+    #claim .head p {
+        font-size: 12px;
+       margin-top: 5px;
+    }
+    #claim .head h6 {
+        margin-top: 12px;
+        margin-bottom: 20px;
+        font-size: 12px;
+
+    }
+    #claim .now-button > a {
+        padding: 10px 20px;
+        margin-left: 70px;
+        font-size: 16px;
+    }
+    .price-inner h4 {
+        font-size: 45px;
+    }
+    .price-inner ul li {
+        padding: 5px;
+    }
+    .price-inner a {
+        padding: 11px 10px;
+    }
+    .subscribe-part{
+        padding-bottom: 30px;
+    }
+    #subscribe {
+       height: 300px;
+    }
+    .pay-text h3 {
+        font-size: 28px;
+    }
+    .foot-info-head h3 {
+padding-bottom: 10px;
+
+    }
+    .foot-info-head{
+        padding-top: 20px;
+    }
+    .foot-secu{
+        padding-top: 22px; 
+    }
+    .foot-info-text ul li a {
+        padding-bottom: 0px;
+    }
+ }
+ @media (max-width: 575px){
+
+    /* Navbar Start */
+    #navbarSupportedContent{
+        background: rgba(0, 0, 0, 0.5);
+    }
+    .main-menu ul li a.nav-link {
+        margin: 0;
+    }
+    .nav_btn_parent{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .button > a {
+        padding: 7px 25px;
+        margin: 0;
+        font-size: 16px;
+    }
+    /* Navbar End */
+    .logo a img {
+        padding-bottom: 5px;
+        padding-left: 20px;
+    }
+    #banner-part {
+        padding: 125px 0 95px 0;
+    }
+    .banner-text h1 {
+        font-size: 200px;
+    }
+    .banner-text p {
+        font-size: 14px;
+    }
+    .now-button > a {
+        padding: 10px 20px;
+        margin-bottom: 99px;
+        font-size: 16px;
+    }
+    
+    .game-text h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .game-text h3 {
+        font-size: 25px;
+    }
+    .game-text p {
+        font-size: 16px;
+    }
+    .head h3 {
+        font-size: 35px;
+    }
+    .game-img {
+        margin-top: 20px;
+    }
+    .game-overlay {
+        width: 100%;
+        height: 90%;
+    }
+    .claim-img {
+        margin-top: 20px;
+        width: 280px;
+      
+    }
+    #pricing {
+        padding: 58px 0 10px 0;
+    }
+   
+    .price-inner{
+        margin-bottom: 70px;
+    }
+    .price-inner h4 {
+        font-size: 45px;
+    }
+    .price-inner ul li {
+        padding: 5px;
+    }
+    .price-inner a {
+        padding: 11px 10px;
+    }
+    #subscribe {
+        height: 300px;
+     }
+     .foot-info-head h3 {
+        padding-top: 20px;
+    }
+    .foot-info-head{
+        padding-top: 20px;
+    }
+    .foot-secu{
+        padding-top: 22px; 
+    }
+    .foot-info-text ul li a {
+        padding-bottom: 0px;
+    }
+ }
+ 
